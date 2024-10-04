@@ -1,0 +1,70 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: 1a0f.pdb
+1 models read: 1a0f.pdb
+
+BackHbond       =               -263.09
+SideHbond       =               -86.24
+Energy_VdW      =               -493.07
+Electro         =               -26.42
+Energy_SolvP    =               693.82
+Energy_SolvH    =               -664.42
+Energy_vdwclash =               41.07
+energy_torsion  =               23.87
+backbone_vdwclash=              333.35
+Entropy_sidec   =               260.00
+Entropy_mainc   =               600.10
+water bonds     =               0.00
+helix dipole    =               -1.93
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.31
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  87.72
+
+
+BackHbond       =               -263.09
+SideHbond       =               -86.24
+Energy_VdW      =               -493.07
+Electro         =               -26.42
+Energy_SolvP    =               693.82
+Energy_SolvH    =               -664.42
+Energy_vdwclash =               41.07
+energy_torsion  =               23.87
+backbone_vdwclash=              333.35
+Entropy_sidec   =               260.00
+Entropy_mainc   =               600.10
+water bonds     =               0.00
+helix dipole    =               -1.93
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.31
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  87.72
+
+Starting BuildModel
+sorry your filenames should start with: mutant_file, or individual_list
+terminate called after throwing an instance of 'std::out_of_range'
+  what():  vector::_M_range_check: __n (which is 0) >= this->size() (which is 0)
